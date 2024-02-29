@@ -8,7 +8,7 @@ This repo is only design !!!
 ![image](https://github.com/waasaty/NovaScripts_web/assets/114494426/95373008-0b49-402c-b4a9-a470cdd55c34)
 ![image](https://github.com/waasaty/NovaScripts_web/assets/114494426/8b79e8cd-662e-4ce4-9a97-51ff55779dc6)
 # USED COLORS
-![image](https://github.com/waasaty/NovaScripts_web/assets/114494426/164be085-1b51-4daa-befe-1cb0b86537db)
+![image](https://github.com/waasaty/NovaScripts_web/assets/114494426/3b978282-f1f6-421f-8d44-34e1dde75e0e)
 
 
 ## Links
