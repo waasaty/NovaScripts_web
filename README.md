@@ -1,4 +1,4 @@
-# NovaScripts web (WIP)
+# NovaScripts web
 This repo is only design !!! 
 
 # PRIVIEW
