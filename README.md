@@ -7,4 +7,5 @@ This repo is only design !!!
 ![image](https://github.com/waasaty/NovaScripts-WebDesign-WIP-/assets/114494426/6481b924-348d-4b49-b279-a736efaeb99a)
 
 ## Links
+- [Mounth RolePlay](https://discord.gg/mounthrp)
 - [NOVA COMMUNITY](https://discord.gg/ZM3MgDhhkb)
