@@ -13,4 +13,3 @@ This repo is only design !!!
 
 ## Links
 - [Mounth RolePlay](https://discord.gg/mounthrp)
-- [NOVA COMMUNITY](https://discord.gg/ZM3MgDhhkb)
